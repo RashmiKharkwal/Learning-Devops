@@ -1,4 +1,4 @@
- html,
+ html html,
         body {
             height: 100%;
             width: 100%;
@@ -21,7 +21,7 @@
             font-family: "Segoe UI";
         }
 
-        .cloud-image {
+        .cloud-image image {
             width: 1200px;
             height: 250px;
             padding-bottom: 50px;
